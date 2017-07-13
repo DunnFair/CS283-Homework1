@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon01", "Pokemon01\Pokemon01.csproj", "{23834645-EFBA-409A-B3DA-2401C10E6639}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonLibrary", "..\PokemonLibrary\PokemonLibrary\PokemonLibrary.csproj", "{6320DC84-67F9-4915-9DCC-5F25BEA1AD80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonLibrary", "PokemonLibrary\PokemonLibrary.csproj", "{6320DC84-67F9-4915-9DCC-5F25BEA1AD80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{23834645-EFBA-409A-B3DA-2401C10E6639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23834645-EFBA-409A-B3DA-2401C10E6639}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23834645-EFBA-409A-B3DA-2401C10E6639}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23834645-EFBA-409A-B3DA-2401C10E6639}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6320DC84-67F9-4915-9DCC-5F25BEA1AD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6320DC84-67F9-4915-9DCC-5F25BEA1AD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6320DC84-67F9-4915-9DCC-5F25BEA1AD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
